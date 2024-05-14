@@ -1,6 +1,8 @@
+[![Aurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurel-appsthru&show_icons=true)](https://github.com/aurel-appsthru)
+<!--
+
 ### Hi there 👋
 
-<!--
 **aurel-appsthru/aurel-appsthru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
